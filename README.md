@@ -1,4 +1,5 @@
-Alcance (1 línea)
+BOCETO INICIAL:
+Alcance 
 
 Gestionar proyectos audiovisuales: planificación, recursos, versiones/aprobaciones y finanzas hasta la entrega.
 
